@@ -20,7 +20,7 @@ Requirements:
 2. Python3
 
 Modules Required to install in Python:
-1. Pnadas 
+1. Panadas 
 2. Requests
 3. Beautiful soup
 4. Spacy
